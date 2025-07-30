@@ -2,7 +2,7 @@
 
 
 
-```
+```javascript 
 var Utkarsh = {
 Name: "Utkarsh",
 Pronouns : "idk/man"
