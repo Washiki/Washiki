@@ -8,8 +8,8 @@ Name: "Utkarsh",
 Pronouns : "idk/man"
 Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
-funfact: `Actin fibres (the ones in your muscles, along with myosin) 
-          are also responsible for maintaining cell shape during cell division!',
+funfact: "Actin fibres (the ones in your muscles, along with myosin) 
+          are also responsible for maintaining cell shape during cell division!",
 }
 ```
 <!--
