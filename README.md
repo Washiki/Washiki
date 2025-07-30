@@ -1,14 +1,16 @@
-## You've reached Washiki
+## You've reached Washiki !
 
 
 
 ```javascript 
-var Utkarsh = {
+var Washiki = {
 Name: "Utkarsh",
 Pronouns : "idk/man"
 Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
-funfact: "Actin fibres (the ones in your muscles, along with myosin) are also responsible for maintaining cell shape during cell division!",}
+funfact: """Actin fibres (the ones in your muscles, along with myosin) 
+          are also responsible for maintaining cell shape during cell division!""",
+}
 ```
 <!--
 **Washiki/Washiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,6 +29,10 @@ Here are some ideas to get you started:
 ___
 
 *Some stats:* 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Washiki&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 *Find me here :*
+[LinkedIn](www.linkedin.com/in/utkarsh-singh-402641269)
+[Gallery](https://www.instagram.com/washis.camera.roll/)
+[asdfghjkl;](https://monkeytype.com/profile/Washikiballa)
