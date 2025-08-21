@@ -14,8 +14,8 @@ REFRESH_TOKEN = os.environ['SPOTIFY_REFRESH_TOKEN']
 #getting the access_token from the client endpoint, which returns the access token
 authtok = requests.post("https://accounts.spotify.com/api/token" , {
     'grant_type' : 'refresh_token',
-    'refresh_token':REFRESH_TOKEN;
-    'client_id':CLIENT_ID;
+    'refresh_token':REFRESH_TOKEN,
+    'client_id':CLIENT_ID,
     'client_secret':CLIENT_SECRET
     })
 
