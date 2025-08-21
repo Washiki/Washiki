@@ -5,14 +5,14 @@
 ```javascript 
 var Washiki = {
 Name: "Utkarsh",
-Pronouns : "idk/man"
+Pronouns : "idk/man",
 Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
 
-Listening_to(Mostly):
+Listening_to(Mostly):,
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
-are also responsible for maintaining cell shape during cell division!`
+are also responsible for maintaining cell shape during cell division!`,
 
 unfun_fact: `The listening_to part is a scheduled spotify api call.
 It was supposed to be a "spotify readme card". I'll get to it someday.` 
