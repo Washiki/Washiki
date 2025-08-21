@@ -40,8 +40,8 @@ for x in artists :
 
 with open('README.md', 'r+') as file:
     lines = file.readlines()
-    start = lines.index("<!--spotify_start__>\n")
-    end = lines.index("<!--spotify_end__>\n")
+    start = lines.index("<!--spotify_start-->\n")
+    end = lines.index("<!--spotify_end-->\n")
     lines[start+1:end] = [x + "\n" for x in artistsmd]
     file.seek(0)
     file.writelines(lines)
