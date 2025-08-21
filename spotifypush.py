@@ -33,15 +33,15 @@ artistsmd = [];
 
 for x in artists :
     name = x['name']
-    url = x['external_urls']['spotify']
-    icon = x['images'][0] if x['images'] else 'https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Quantum%20Computing/Frieren_Practical_Quantum_Computing_For_Developers.png?raw=true'
-    templine = f'[<img src = "{icon}" width = "50" height = "50" /><br>{name}]({url})<br>'
+    #url = x['external_urls']['spotify']
+    #icon = x['images'][0] if x['images'] else 'https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Quantum%20Computing/Frieren_Practical_Quantum_Computing_For_Developers.png?raw=true'
+    templine = f'"{name}",'
     artistsmd.append(templine);
 
 with open('README.md', 'r+') as file:
     lines = file.readlines()
-    start = lines.index("<!--spotify_start-->\n")
-    end = lines.index("<!--spotify_end-->\n")
+    start = lines.index("(Mostly):")
+    end = lines.index("fun_fact:")
     lines[start+1:end] = [x + "\n" for x in artistsmd]
     file.seek(0)
     file.writelines(lines)
