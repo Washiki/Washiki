@@ -1,41 +1,42 @@
 name: Automated script to run readme updater, and then push the change
-# learning github actions with this one lesgo
+#tried to learn github actions with this. 
+#maybe its a fault i haven't managed to diagnose  on my part, 
+#but the indentation basis of this is horrible to work with. 
+#need to run it through validators and formatters just to have it work.
 
 on:
-  workflow_dispatch:       # manually triggerable
-  schedule: 
-    - cron: '0 */6 * * *'  # cron is a shortening of chronos; this particular one runs every 6 hours.
-
+  workflow_dispatch: #make this manually triggerable
+  schedule: #uses the same chronos
+    - cron: 0 */6 * * *
 jobs:
-  update:                  # this is a job named "update"
-    runs-on: ubuntu-latest # github uses a small ubuntu VM for actions
+  update:
+    runs-on: ubuntu-latest #github actions make a small ubuntu vm 
+  permissions: #this is updating the file, so need it to have write perms
+    contents: write
+  steps:
+    - name: load repo files
+      uses: actions/checkout@v3
+      
+    - name: setup python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.x
 
-    steps:
-      - name: load repo files 
-        uses: actions/checkout@v3
-
-      - name: setup python 
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.x'
-
-      - name: get the modules
-        run: pip install requests
-        # os is already included in the standard install 
-
-      - name: update the readme
-        # load the secret variables 
-        env: 
-          SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
-          SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
-          SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-        run: python spotifypush.py 
-
-      - name: push change to the repo
-        run: |
-          git config user.name "GitHub Action"
-          git config user.email "action@github.com"
-          git add README.md
-          git commit -m "Update top artists"
-          git push
-#indentation matters a lot. 
+    - name: get the modules
+      run: pip install requests
+      
+    - name: update the readme
+      env:
+        SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
+        SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
+        SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
+      run: python spotifypush.py
+      
+    - name: push change to the repo
+      run: |
+        git config user.name "GitHub Action"
+        git config user.email "action@github.com"
+        git add README.md
+        git commit -m "Update top artists"
+        git push
+#indentation matters quite a bit. 
