@@ -35,7 +35,7 @@ for x in artists :
     name = x['name']
     url = x['external_urls']['spotify']
     icon = x['images'][0] if x['images'] else 'https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Quantum%20Computing/Frieren_Practical_Quantum_Computing_For_Developers.png?raw=true'
-    templine = f'[<img src = "{icon}" width = "100" height = "110" /><br>{name}]({url})'
+    templine = f'[<img src = "{icon}" width = "50" height = "50" /><br>{name}]({url})<br>'
     artistsmd.append(templine);
 
 with open('README.md', 'r+') as file:
