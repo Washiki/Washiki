@@ -41,8 +41,7 @@ for x in artists :
 with open('README.md', 'r+') as file:
     lines = file.readlines()
     start = lines.index("Listening_to(Mostly):\n")
-    end = lines.index("fun_fact:`Actin fibres (the ones in your muscles, along with myosin),\n")
-    lines[start+1:end] = [x + "\n" for x in artistsmd]
+    lines[start+1:start+6] = [x for x in artistsmd]
     file.seek(0)
     file.writelines(lines)
     file.truncate()
