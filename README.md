@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ___
+<!--spotify_start-->
+<!--spotify_end-->
 
 ***Some stats:*** 
 
