@@ -10,12 +10,7 @@ Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
 
 Listening_to(Mostly):
-"PinkPantheress",
-"Vansire",
-"Joji",
-"Laufey",
-"Vishal-Shekhar",
-fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
+"PinkPantheress","Vansire","Joji","Laufey","Vishal-Shekhar",fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
 are also responsible for maintaining cell shape during cell division!`,
 
 unfun_fact: `The listening_to part is a scheduled spotify api call.
