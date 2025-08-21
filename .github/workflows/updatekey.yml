@@ -11,9 +11,9 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest #github actions make a small ubuntu vm 
-  permissions: #this is updating the file, so need it to have write perms
-    contents: write
-  steps:
+    permissions: #this is updating the file, so need it to have write perms
+      contents: write
+    steps:
     - name: load repo files
       uses: actions/checkout@v3
       
