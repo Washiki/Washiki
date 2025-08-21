@@ -28,11 +28,11 @@ Here are some ideas to get you started:
 -->
 ___
 <!--spotify_start-->
-[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656', 'width': 640}" width = "100" height = "110" /><br>PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t)
-[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d', 'width': 640}" width = "100" height = "110" /><br>Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY)
-[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b', 'width': 640}" width = "100" height = "110" /><br>Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq)
-[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5eb71eb8f92b86868400ed4e006', 'width': 640}" width = "100" height = "110" /><br>Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO)
-[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf', 'width': 640}" width = "100" height = "110" /><br>Vishal-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb)
+[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656', 'width': 640}" width = "50" height = "50" /><br>PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t)<br>
+[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5ebf44b9228f7c27e00783d1c8d', 'width': 640}" width = "50" height = "50" /><br>Vansire](https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY)<br>
+[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b', 'width': 640}" width = "50" height = "50" /><br>Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq)<br>
+[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5eb71eb8f92b86868400ed4e006', 'width': 640}" width = "50" height = "50" /><br>Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO)<br>
+[<img src = "{'height': 640, 'url': 'https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf', 'width': 640}" width = "50" height = "50" /><br>Vishal-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb)<br>
 <!--spotify_end-->
 
 ***Some stats:*** 
