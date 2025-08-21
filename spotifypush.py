@@ -32,19 +32,17 @@ artists = req.json()['items']
 artistsmd = [];
 
 for x in artists :
-    name = artists['name']
-    url = artists['external_urls']['spotify']
-    icon = artists['images'][0] if artists['images'] else 'https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Quantum%20Computing/Frieren_Practical_Quantum_Computing_For_Developers.png?raw=true'
+    name = x['name']
+    url = x['external_urls']['spotify']
+    icon = x['images'][0] if x['images'] else 'https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Quantum%20Computing/Frieren_Practical_Quantum_Computing_For_Developers.png?raw=true'
     templine = f'[<img src = "{icon}" width = "100" height = "110" /><br>{name}]({url})'
     artistsmd.append(templine);
 
 with open('README.md', 'r+') as file:
-    line = file.readlines()
-    start = lines.index("<!--spotify_strat__>\n")
+    lines = file.readlines()
+    start = lines.index("<!--spotify_start__>\n")
     end = lines.index("<!--spotify_end__>\n")
-    lines[start:end] = [l + "\n" for x in artistsmd]
+    lines[start+1:end] = [x + "\n" for x in artistsmd]
     file.seek(0)
-    file.writelines(line)
-
-    #clean up anything left below 
+    file.writelines(lines)
     file.truncate()
