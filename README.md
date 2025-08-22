@@ -38,7 +38,7 @@ ___
 
 ***Some stats:*** 
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Washiki&layout=compact&theme=synthwave&size_weight=0.39&count_weight=0.61)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Washiki&layout=compact&theme=transparent&size_weight=0.39&count_weight=0.61)](https://github.com/anuraghazra/github-readme-stats)
 
 ***Find me here:***
 
