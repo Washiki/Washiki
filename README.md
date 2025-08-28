@@ -10,8 +10,7 @@ Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
 
 Listening_to(Mostly):[
-"PinkPantheress","Vansire","Joji","Laufey","Vishal-Shekhar"
-],
+"PinkPantheress","Vansire","Laufey","Joji","Vishal-Shekhar",],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
 are also responsible for maintaining cell shape during cell division!`,
