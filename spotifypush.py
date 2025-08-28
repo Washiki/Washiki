@@ -42,7 +42,7 @@ with open('README.md', 'r+') as file:
     lines = file.readlines()
     start = lines.index("Listening_to(Mostly):[\n")
     end = lines.index("],\n")
-    lines[start+1] = [f"{x}\n" for x in artistsmd]
+    lines[start+1:end] = [f"{x}\n" for x in artistsmd]
     file.seek(0)
     file.writelines(lines)
     file.truncate()
