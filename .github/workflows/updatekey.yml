@@ -7,7 +7,7 @@ name: Automated script to run readme updater, and then push the change
 on:
   workflow_dispatch: #make this manually triggerable
   schedule: #uses the same chronos
-    - cron: 0 */48 * * *
+    - cron: 0 0 */2 * *
 jobs:
   update:
     runs-on: ubuntu-latest #github actions make a small ubuntu vm 
