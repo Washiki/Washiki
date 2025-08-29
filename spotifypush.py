@@ -25,7 +25,7 @@ access_token = authtok.json()['access_token']
 prover = {'Authorization' : f'Bearer {access_token}'}
 
 #send the request , returns top 5 artists  
-req = requests.get("https://api.spotify.com/v1/me/top/artists?limit=5", headers=prover)
+req = requests.get("https://api.spotify.com/v1/me/top/artists?limit=5&time_range=short_term", headers=prover)
 
 #turn respose to markdown and put it in the readme
 artists = req.json()['items']
