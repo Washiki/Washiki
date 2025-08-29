@@ -7,7 +7,7 @@ name: Automated script to run readme updater, and then push the change
 on:
   workflow_dispatch: #make this manually triggerable
   schedule: #uses the same chronos
-    - cron: 0 */6 * * *
+    - cron: 0 */48 * * *
 jobs:
   update:
     runs-on: ubuntu-latest #github actions make a small ubuntu vm 
@@ -31,12 +31,17 @@ jobs:
         SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
         SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
       run: python spotifypush.py
-      
+
+      #checking wether there is a diff in cur and cached, if non then no push
     - name: push change to the repo
       run: |
         git config user.name "GitHub Action"
         git config user.email "action@github.com"
         git add README.md
-        git commit -m "Update top artists"
-        git push
+        if ! git diff --cached --quiet; then 
+          git commit -m "Update top artists"
+          git push
+        else
+          echo "its working alright, spotify artists not updated."
+        fi 
 #indentation matters quite a bit. 
