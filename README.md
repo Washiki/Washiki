@@ -11,8 +11,8 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 
 Listening_to(Mostly):[
 "Sanjay Leela Bhansali",
-"Laufey",
 "Yameii Online",
+"Laufey",
 "Vansire",
 "Charlie Puth",
 ],
