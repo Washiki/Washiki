@@ -13,8 +13,8 @@ Listening_to(Mostly):[
 "Laufey",
 "Charlie Puth",
 "Vansire",
+"Joji",
 "Pritam",
-"Vishal-Shekhar",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
