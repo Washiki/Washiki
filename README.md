@@ -13,7 +13,7 @@ Listening_to(Mostly):[
 "Laufey",
 "Charlie Puth",
 "Vansire",
-"Joji",
+"Bruno Mars",
 "Pritam",
 ],
 
