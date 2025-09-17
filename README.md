@@ -14,7 +14,7 @@ Listening_to(Mostly):[
 "Charlie Puth",
 "Vansire",
 "Bruno Mars",
-"Pritam",
+"lil hero",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
