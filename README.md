@@ -11,8 +11,8 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 
 Listening_to(Mostly):[
 "Laufey",
-"Charlie Puth",
 "lil hero",
+"Charlie Puth",
 "Bruno Mars",
 "NewJeans",
 ],
