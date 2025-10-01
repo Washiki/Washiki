@@ -12,9 +12,9 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 Listening_to(Mostly):[
 "Laufey",
 "lil hero",
-"Charlie Puth",
 "Vansire",
 "A.R. Rahman",
+"Charlie Puth",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
