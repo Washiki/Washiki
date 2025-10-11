@@ -14,7 +14,7 @@ Listening_to(Mostly):[
 "lil hero",
 "Vansire",
 "NewJeans",
-"A.R. Rahman",
+"Shankar-Ehsaan-Loy",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
