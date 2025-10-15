@@ -9,7 +9,7 @@ Pronouns : "idk/man",
 Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
 
-Listening_to(Mostly):[
+Currently_Listening_to(Mostly):[
 "Laufey",
 "lil hero",
 "Vansire",
