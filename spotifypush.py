@@ -40,7 +40,7 @@ for x in artists :
 
 with open('README.md', 'r+') as file:
     lines = file.readlines()
-    start = lines.index("Listening_to(Mostly):[\n")
+    start = lines.index("Currently_Listening_to(Mostly):[\n")
     end = lines.index("],\n")
     lines[start+1:end] = [f"{x}\n" for x in artistsmd]
     file.seek(0)
