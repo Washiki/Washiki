@@ -10,11 +10,11 @@ Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
 
 Currently_Listening_to(Mostly):[
-"lil hero",
 "Laufey",
+"lil hero",
 "Vansire",
 "Joji",
-"Shankar-Ehsaan-Loy",
+"Amit Trivedi",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
