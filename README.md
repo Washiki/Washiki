@@ -11,8 +11,8 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 
 Currently_Listening_to(Mostly):[
 "Laufey",
-"lil hero",
 "Vansire",
+"lil hero",
 "Joji",
 "Amit Trivedi",
 ],
