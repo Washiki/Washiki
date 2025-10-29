@@ -13,8 +13,8 @@ Currently_Listening_to(Mostly):[
 "Joji",
 "Amit Trivedi",
 "Shankar-Ehsaan-Loy",
-"Michael Jackson",
 "Exyl",
+"Laufey",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
