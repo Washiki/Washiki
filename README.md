@@ -11,10 +11,10 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 
 Currently_Listening_to(Mostly):[
 "Joji",
-"Amit Trivedi",
 "Shankar-Ehsaan-Loy",
+"Amit Trivedi",
 "Exyl",
-"Laufey",
+"Kendrick Lamar",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
