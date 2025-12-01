@@ -12,8 +12,8 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 Currently_Listening_to(Mostly):[
 "SecretAsian6",
 "Joji",
-"berryblue",
 "Yazida",
+"berryblue",
 "PinkPantheress",
 ],
 
