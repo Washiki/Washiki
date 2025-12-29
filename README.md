@@ -13,8 +13,8 @@ Currently_Listening_to(Mostly):[
 "TV Girl",
 "Laufey",
 "berryblue",
-"Yameii Online",
 "Yazida",
+"Clark Rainbow",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
