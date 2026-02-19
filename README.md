@@ -13,8 +13,8 @@ Currently_Listening_to(Mostly):[
 "Yazida",
 "Joji",
 "Laufey",
+"Dazegxd",
 "Sanjay Leela Bhansali",
-"Lucy Bedroque",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
