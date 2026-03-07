@@ -13,7 +13,7 @@ Currently_Listening_to(Mostly):[
 "Joji",
 "Starjunk 95",
 "Kendrick Lamar",
-"Dazegxd",
+"Yazida",
 "HYBS",
 ],
 
