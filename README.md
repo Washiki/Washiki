@@ -10,11 +10,11 @@ Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
 
 Currently_Listening_to(Mostly):[
-"Joji",
 "Starjunk 95",
+"Joji",
 "Kendrick Lamar",
-"Yazida",
-"HYBS",
+"Dazegxd",
+"Sanjay Leela Bhansali",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
