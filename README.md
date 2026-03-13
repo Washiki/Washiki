@@ -13,8 +13,8 @@ Currently_Listening_to(Mostly):[
 "Starjunk 95",
 "Joji",
 "Sanjay Leela Bhansali",
-"Kendrick Lamar",
-"Yazida",
+"Don Toliver",
+"Dazegxd",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
