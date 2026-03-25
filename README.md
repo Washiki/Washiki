@@ -11,10 +11,10 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 
 Currently_Listening_to(Mostly):[
 "Don Toliver",
-"Starjunk 95",
+"Laufey",
+"Dazegxd",
 "Joji",
 "Bruno Mars",
-"PinkPantheress",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
