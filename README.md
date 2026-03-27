@@ -10,11 +10,11 @@ Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
 
 Currently_Listening_to(Mostly):[
-"Don Toliver",
 "Laufey",
+"Don Toliver",
 "Dazegxd",
 "Joji",
-"Bruno Mars",
+"Starjunk 95",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
