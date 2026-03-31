@@ -10,8 +10,8 @@ Currently: "Nerding about everything",
 Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
 
 Currently_Listening_to(Mostly):[
-"Laufey",
 "Don Toliver",
+"Laufey",
 "Dazegxd",
 "Joji",
 "Starjunk 95",
