@@ -12,8 +12,8 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 Currently_Listening_to(Mostly):[
 "Don Toliver",
 "Laufey",
+"Joji",
 "Yazida",
-"PinkPantheress",
 "Starjunk 95",
 ],
 
