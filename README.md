@@ -14,7 +14,7 @@ Currently_Listening_to(Mostly):[
 "Yazida",
 "Laufey",
 "Lamp",
-"PinkPantheress",
+"Pritam",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
