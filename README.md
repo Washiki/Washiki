@@ -11,10 +11,10 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 
 Currently_Listening_to(Mostly):[
 "Joji",
-"Lamp",
 "Laufey",
+"Azumi Takahashi",
 "Yazida",
-"TV Girl",
+"Yameii Online",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
