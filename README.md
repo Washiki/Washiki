@@ -12,9 +12,9 @@ Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "H
 Currently_Listening_to(Mostly):[
 "Joji",
 "Laufey",
-"Yameii Online",
-"Vansire",
 "Azumi Takahashi",
+"Vansire",
+"Yameii Online",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
