@@ -5,9 +5,9 @@
 ```javascript 
 var Washiki = {
 Name: "Utkarsh",
-Pronouns : "idk/man",
+Pronouns : "hell/yes",
 Currently: "Nerding about everything",
-Languages: ["C", "C++", "Java" , "R", "JavaScript", "Python", "Bash", "Rust", "HTML/CSS"],
+Languages: ["C/C++", "Java" , "R", "Js/Ts", "Python", "Rust", "HTML/CSS" ,"Bash/Scripting"],
 
 Currently_Listening_to(Mostly):[
 "PinkPantheress",
