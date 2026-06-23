@@ -11,8 +11,8 @@ Languages: ["C/C++", "Java" , "R", "Js/Ts", "Python", "Rust", "HTML/CSS" ,"Bash/
 
 Currently_Listening_to(Mostly):[
 "PinkPantheress",
-"Vansire",
 "QMIIR",
+"Vansire",
 "Clark Rainbow",
 "Laufey",
 ],
