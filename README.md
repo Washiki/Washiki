@@ -12,9 +12,9 @@ Languages: ["C/C++", "Java" , "R", "Js/Ts", "Python", "Rust", "HTML/CSS" ,"Bash/
 Currently_Listening_to(Mostly):[
 "PinkPantheress",
 "QMIIR",
-"Vansire",
 "Clark Rainbow",
 "Laufey",
+"Michael Jackson",
 ],
 
 fun_fact:`Actin fibres (the ones in your muscles, along with myosin),
