@@ -12,15 +12,22 @@ REFRESH_TOKEN = os.environ['SPOTIFY_REFRESH_TOKEN']
 #instead, there's a expiring refresh token that needs to be sent 
 
 #getting the access_token from the client endpoint, which returns the access token
-authtok = requests.post("https://accounts.spotify.com/api/token" , {
-    'grant_type' : 'refresh_token',
-    'refresh_token':REFRESH_TOKEN,
-    'client_id':CLIENT_ID,
-    'client_secret':CLIENT_SECRET
-    })
+response = requests.post(
+    "https://accounts.spotify.com/api/token",
+    data={
+        'grant_type': 'refresh_token',
+        'refresh_token': REFRESH_TOKEN
+    },
+    auth=HTTPBasicAuth(CLIENT_ID, CLIENT_SECRET),
+    timeout=15
+)
 
-access_token = authtok.json()['access_token']
+if not response.ok:
+    print(f"Token request failed: HTTP {response.status_code}")
+    print(response.text)
+    response.raise_for_status()
 
+access_token = response.json()['access_token']
 #make header via access token 
 prover = {'Authorization' : f'Bearer {access_token}'}
 
