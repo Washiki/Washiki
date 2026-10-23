@@ -1,6 +1,6 @@
 import requests #to get data from ishpotify
 import os #to interact with the github secrets
-
+from requests.auth import HTTPBasicAuth
 
 #github secrets are pretty cool. They can simulate an environment. nice. 
 CLIENT_ID = os.environ['SPOTIFY_CLIENT_ID']
