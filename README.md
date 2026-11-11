@@ -12,8 +12,8 @@ Languages: ["C/C++", "Java" , "R", "Js/Ts", "Python", "Rust", "HTML/CSS" ,"Bash/
 Currently_Listening_to(Mostly):[
 "PinkPantheress",
 "Dazegxd",
-"A.R. Rahman",
-"Pritam",
+"Joji",
+"Yameii Online",
 "Laufey",
 ],
 
